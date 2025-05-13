@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\models\\schooldomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\models\\schooldomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|c:\\users\\adeola\\source\\repos\\studentswipe\\studentswipe\\studentswipe\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEEAA91-88D4-472B-A6EC-E01B39F12224}|StudentSwipe\\StudentSwipe.csproj|solutionrelative:studentswipe\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentSwipe\\appsettings.json",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\appsettings.json",
+              "RelativeToolTip": "StudentSwipe\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T16:02:37.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentSwipe\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentSwipe\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T14:30:35.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StudentSwipe\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StudentSwipe\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T14:30:32.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentSwipe\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentSwipe\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T14:30:30.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentSwipe\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentSwipe\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T14:30:29.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "StudentSwipe\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "StudentSwipe\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T14:27:49.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "StudentSwipe\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "StudentSwipe\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:05:31.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StudentSwipe\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StudentSwipe\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:00:30.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\SeedData.cs",
+              "RelativeDocumentMoniker": "StudentSwipe\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\SeedData.cs",
+              "RelativeToolTip": "StudentSwipe\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:12:23.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Program.cs",
+              "RelativeDocumentMoniker": "StudentSwipe\\Program.cs",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Program.cs",
+              "RelativeToolTip": "StudentSwipe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:08:20.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentSwipe\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentSwipe\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T05:07:32.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentSwipe\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\AppDbContext.cs",
+              "RelativeToolTip": "StudentSwipe\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:45:45.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SchoolDomain.cs",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Models\\SchoolDomain.cs",
+              "RelativeDocumentMoniker": "StudentSwipe\\Models\\SchoolDomain.cs",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Models\\SchoolDomain.cs",
+              "RelativeToolTip": "StudentSwipe\\Models\\SchoolDomain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:42:44.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudentSwipe\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudentSwipe\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:42:04.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentSwipe\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Adeola\\source\\repos\\StudentSwipe\\StudentSwipe\\StudentSwipe\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentSwipe\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:51:25.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Adeola\Source\Repos\StudentSwipe\StudentSwipe\StudentSwipe\obj\Release\net8.0\PubTmp\Out\StudentSwipe.exe
+C:\Users\Adeola\Source\Repos\StudentSwipe\StudentSwipe\StudentSwipe\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Adeola\Source\Repos\StudentSwipe\StudentSwipe\StudentSwipe\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Adeola\Source\Repos\StudentSwipe\StudentSwipe\StudentSwipe\obj\Release\net8.0\PubTmp\Out\StudentSwipe.dll
+C:\Users\Adeola\Source\Repos\StudentSwipe\StudentSwipe\StudentSwipe\obj\Release\net8.0\PubTmp\Out\StudentSwipe.deps.json
+C:\Users\Adeola\Source\Repos\StudentSwipe\StudentSwipe\StudentSwipe\obj\Release\net8.0\PubTmp\Out\StudentSwipe.runtimeconfig.json
+C:\Users\Adeola\Source\Repos\StudentSwipe\StudentSwipe\StudentSwipe\obj\Release\net8.0\PubTmp\Out\StudentSwipe.pdb

@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentSwipe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e17792eb9f16f2e843fb2e1feb088dfd9d27051")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentSwipe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentSwipe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
