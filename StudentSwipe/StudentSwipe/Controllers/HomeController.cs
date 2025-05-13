@@ -18,7 +18,22 @@ namespace StudentSwipe.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Register()
+        {
+            return View();
+        }
+
+        public IActionResult LogIn()
+        {
+            return View();
+        }
+
+        public IActionResult LogOut()
+        {
+            return View();
+        }
+
+        public IActionResult AboutUs()
         {
             return View();
         }
