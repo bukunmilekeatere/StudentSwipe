@@ -6,8 +6,8 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project>
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <History>True|2025-05-06T15:02:51.6708759Z||;True|2025-05-06T09:26:27.3904781-05:00||;</History>
-    <LastFailureDetails />
+    <History>False|2025-05-15T14:01:17.1279378Z;True|2025-05-06T10:02:51.6708759-05:00;True|2025-05-06T09:26:27.3904781-05:00;</History>
+    <LastFailureDetails>2025-05-15T14:01:17.1279378Z|profileHasCreds</LastFailureDetails>
   </PropertyGroup>
   <ItemGroup>
     <AzureDBConnectionStrings Include="Data Source=book-library-db.database.windows.net,1433;Initial Catalog=book-library-db;Authentication=ActiveDirectoryManagedIdentity" />

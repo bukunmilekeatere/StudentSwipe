@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentSwipe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c523327b6963b1e79d9ef73fd10f76b091a758f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c378e064b0dfbb5c1bdff1c0e282350010efabb")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentSwipe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentSwipe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
