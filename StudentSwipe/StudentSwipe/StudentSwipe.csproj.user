@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\Adeola\Source\Repos\StudentSwipe\StudentSwipe\StudentSwipe\Properties\PublishProfiles\BookLibraryApi - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Admin\Downloads\StudentSwipeUpdated\StudentSwipe\.github\workflows\main_studentswipe20250513095333.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
