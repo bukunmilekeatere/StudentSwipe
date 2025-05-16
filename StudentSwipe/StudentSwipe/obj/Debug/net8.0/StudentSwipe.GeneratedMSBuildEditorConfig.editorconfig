@@ -26,28 +26,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\Admin\Downloads\StudentSwipeUpdated\StudentSwipe\StudentSwipe\StudentSwipe
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Admin/Downloads/StudentSwipeUpdated/StudentSwipe/StudentSwipe/StudentSwipe/Views/Home/AboutUs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Downloads/StudentSwipeUpdated/StudentSwipe/StudentSwipe/StudentSwipe/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Admin/Downloads/StudentSwipeUpdated/StudentSwipe/StudentSwipe/StudentSwipe/Views/Home/LogIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dJbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Downloads/StudentSwipeUpdated/StudentSwipe/StudentSwipe/StudentSwipe/Views/Home/LogOut.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dPdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Admin/Downloads/StudentSwipeUpdated/StudentSwipe/StudentSwipe/StudentSwipe/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Downloads/StudentSwipeUpdated/StudentSwipe/StudentSwipe/StudentSwipe/Views/Home/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Downloads/StudentSwipeUpdated/StudentSwipe/StudentSwipe/StudentSwipe/Views/Shared/Error.cshtml]
