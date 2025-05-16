@@ -12,31 +12,17 @@ namespace StudentSwipe.Controllers
         {
             _logger = logger;
         }
-
         public IActionResult Index()
         {
-            return View();
-        }
-
-        public IActionResult Register()
-        {
-            return View();
+            return RedirectToAction("LogIn");
         }
 
         public IActionResult LogIn()
         {
-            return View();
+            return View("~/Views/Home/Login.cshtml");
         }
 
-        public IActionResult LogOut()
-        {
-            return View();
-        }
 
-        public IActionResult AboutUs()
-        {
-            return View();
-        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
