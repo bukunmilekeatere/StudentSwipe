@@ -15,3 +15,5 @@ public class RegisterViewModel
     [DataType(DataType.Password)]
     public string ConfirmPassword { get; set; }
 }
+
+

@@ -18,13 +18,12 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options =>
 {
     options.SignIn.RequireConfirmedAccount = false;
 })
-.AddEntityFrameworkStores<ApplicationDbContext>()
-.AddDefaultTokenProviders();
+.AddEntityFrameworkStores<ApplicationDbContext>();
 
 builder.Services.ConfigureApplicationCookie(options =>
 {
-    options.LoginPath = "/Authorization/Login";
-    options.LogoutPath = "/Authorization/Logout";
+    options.Cookie.SecurePolicy = CookieSecurePolicy.Always; // Ensures HTTPS
+    options.Cookie.SameSite = SameSiteMode.Strict;           // Better security
 });
 
 var app = builder.Build();
