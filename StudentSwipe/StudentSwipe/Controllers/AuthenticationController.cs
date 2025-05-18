@@ -1,15 +1,23 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Identity;
 using StudentSwipe.Models;
+using System.Diagnostics.CodeAnalysis;
 public class AuthenticationController : Controller
 {
+    [HttpGet("Register")]
+    public IActionResult Register()
+    {
+        return View("~/Views/Home/Register.cshtml");
+    }
+
     [HttpGet("Login")]
     public IActionResult Login()
-	{
-		return View("~/Views/Home/Login.cshtml");
-	}
+    {
+        return View("~/Views/Home/Login.cshtml");
+    }
 
-	private readonly ApplicationDbContext _context;
+
+    private readonly ApplicationDbContext _context;
 	private readonly UserManager<IdentityUser> _userManager;
 	private readonly SignInManager<IdentityUser> _signInManager;
 
@@ -24,7 +32,7 @@ public class AuthenticationController : Controller
 	}
 
     [HttpPost("Register")]
-    public async Task<IActionResult> Register(RegisterViewModel model)
+    public async Task<IActionResult> Register([FromForm]RegisterViewModel model)
     {
         if (!ModelState.IsValid)
             return View("~/Views/Home/Login.cshtml");
@@ -52,30 +60,25 @@ public class AuthenticationController : Controller
         foreach (var error in result.Errors)
             ModelState.AddModelError(string.Empty, error.Description);
 
-        return RedirectToAction("Index", "Home");
+        return View("~/Views/Home/Login.cshtml", model);
     }
 
-[HttpPost("Login")]
-	public async Task<IActionResult> Login(LoginModel model)
-	{
-		var user = await _userManager.FindByEmailAsync(model.Email);
-		if (user == null)
-		{
-			TempData["LoginError"] = "Invalid login attempt.";
-			return RedirectToAction("Login");
-		}
+    [HttpPost("Login")]
+    public async Task<IActionResult> Login([FromForm] LoginModel model)
+    {
 
-		var result = await _signInManager.PasswordSignInAsync(model.Email, model.Password, false, false);
-		if (!result.Succeeded)
-		{
-            ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+        var result = await _signInManager.PasswordSignInAsync(model.Email, model.Password, false, false);
+        if (!result.Succeeded)
+        {
+            TempData["LoginError"] = "Invalid login attempt.";
             return RedirectToAction("Login");
-		}
-		TempData["LoginSuccess"] = "You have successfully logged in!";
-        return RedirectToAction("Index", "Home");
+        }
+
+        return RedirectToAction("Index", "Home"); // Show feed
     }
 
-	[HttpPost("Logout")]
+
+    [HttpPost("Logout")]
 	public async Task<IActionResult> Logout()
 	{
 		await _signInManager.SignOutAsync();

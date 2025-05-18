@@ -1,22 +1,19 @@
 ﻿@model RegisterViewModel
-
-@{
-    ViewData["Title"] = "Home Page";
-}
-
-
 <head>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,800" rel="stylesheet" />
     <style>
 
         .container {
-            width: 850px;
+
             background-color: #fff;
-            border-radius: 10px;
+            margin: 50px auto;
+            border-radius: 43px;
             display: flex;
             box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
             overflow: hidden;
-            flex-wrap: wrap;
+            flex: auto;
+            justify-content: center;
+            align-items: center;
         }
 
         .left-section,
@@ -42,7 +39,7 @@
         input {
             background-color: #eee;
             border: none;
-            padding: 12px 15px;
+            padding: 10px 13px;
             margin: 8px 0;
             width: 100%;
             border-radius: 5px;
@@ -71,14 +68,7 @@
                 opacity: 0.9;
             }
 
-        .form-group {
-            width: 100%;
-        }
 
-        form {
-            width: 100%;
-            max-width: 300px;
-        }
     </style>
 </head>
 
@@ -86,7 +76,6 @@
 
     <!-- Login Form -->
     <div class="left-section">
-
         <form asp-controller="Authentication" asp-action="Login" method="post">
             <h1>Sign in</h1>
             @if (TempData["LoginError"] != null)
@@ -118,6 +107,16 @@
 
             <div class="form-group">
                 <label asp-for="Password"></label>
+                <div id="passwordRequirements" style="margin-top: 10px;">
+                    <p>must include:</p>
+                    <ul style="list-style: none; padding-left: 0;">
+                        <li id="length" class="invalid">At least 6 characters</li>
+                        <li id="uppercase" class="invalid">At least 1 uppercase letter</li>
+                        <li id="lowercase" class="invalid">At least 1 lowercase letter</li>
+                        <li id="number" class="invalid">At least 1 number</li>
+                        <li id="special" class="invalid">At least 1 special character</li>
+                    </ul>
+                </div>
                 <input asp-for="Password" class="form-control" type="password" />
                 <span asp-validation-for="Password" class="text-danger"></span>
             </div>
@@ -127,7 +126,6 @@
                 <input asp-for="ConfirmPassword" class="form-control" type="password" />
                 <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
             </div>
-
             <button type="submit">Sign Up</button>
         </form>
     </div>

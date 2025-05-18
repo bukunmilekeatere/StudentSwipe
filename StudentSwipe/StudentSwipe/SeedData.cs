@@ -22,5 +22,6 @@ public static class SchoolDomainSeeder
             new SchoolDomain { Domain = "cmu.ca", SchoolName = "Canadian Mennonite University" },
 
         };
+
     }
 }

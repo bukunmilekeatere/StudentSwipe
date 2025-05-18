@@ -10,7 +10,5 @@ public class ApplicationDbContext : IdentityDbContext
     }
 
     public DbSet<SchoolDomain> SchoolDomains { get; set; }
-	public DbSet<UserModel> Users { get; set; }
-
 
 }
